@@ -1,0 +1,14 @@
+﻿  Core.cpp
+Core.cpp(482): warning C4244: 'argument': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+Core.cpp(500): warning C4244: 'argument': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+Core.cpp(510): warning C4244: 'argument': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+Core.cpp(517): warning C4244: 'argument': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+Core.cpp(524): warning C4244: 'argument': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+Core.cpp(535): warning C4244: 'argument': conversion from 'WPARAM' to 'unsigned int', possible loss of data
+  GameObject.cpp
+  Renderer.cpp
+  Sprite.cpp
+  Transform.cpp
+  template.cpp
+  Generating Code...
+  Template.vcxproj -> C:\AGK\apps\Zelda Clone\Final\Zelda Clone64.exe
